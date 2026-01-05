@@ -1,4 +1,4 @@
-Hypothesis Tests in Python
+> Hypothesis Tests in Python
 
 Project Overview
 
@@ -36,7 +36,7 @@ p-value interpretation
 
 Final decision
 
-🛠 Tools & Libraries Used
+Tools & Libraries Used
 
 Python
 
@@ -48,7 +48,7 @@ SciPy
 
 Matplotlib / Seaborn (for visualization)
 
-📈 Workflow
+Workflow
 
 Data loading and cleaning
 
@@ -62,7 +62,7 @@ Test execution using Python
 
 Interpretation of results
 
- Key Insights
+>  Key Insights
 
 Learned how to choose the right hypothesis test based on data type and assumptions
 
