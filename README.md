@@ -1,14 +1,14 @@
-> Hypothesis Tests in Python
+# Hypothesis Tests in Python
 
-Project Overview
+# Project Overview
 
 This project demonstrates how statistical hypothesis testing is applied in Python to validate assumptions and make data-driven decisions. The analysis focuses on comparing groups, testing relationships, and determining statistical significance using real-world data scenarios.
 
-Objective
+# Objective
 
 To apply and interpret different hypothesis tests in Python and understand whether observed differences or relationships in data are statistically significant or occurred by chance.
 
-Hypothesis Tests Covered
+# Hypothesis Tests Covered
 
 One-sample t-test
 
@@ -36,7 +36,7 @@ p-value interpretation
 
 Final decision
 
-Tools & Libraries Used
+# Tools & Libraries Used
 
 Python
 
@@ -62,14 +62,14 @@ Test execution using Python
 
 Interpretation of results
 
->  Key Insights
+#  Key Insights
 
 Learned how to choose the right hypothesis test based on data type and assumptions
 
 Understood the practical meaning of p-values and confidence levels
 
 Converted statistical output into business-friendly conclusions
-# Use Cases
+#  Use Cases
 
 A/B testing
 
@@ -97,6 +97,6 @@ Result interpretation & reporting
 ├── visualizations/
 └── README.md
 
-✅ Conclusion
+# Conclusion
 
 This project showcases the practical use of hypothesis testing in Python to support evidence-based decisions, making it valuable for roles in data analysis, research, and business analytics.
